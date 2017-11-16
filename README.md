@@ -1,4 +1,6 @@
 # Useful links
+[All new plugins](https://github.com/poggit/plugins/issues/16)
+
 ## Subscribe to categories
 
 1. [General](https://github.com/poggit/plugins/issues/1) &ndash; Here you can find plugins that provide many functionalities or let you do many basic things. If you want to add something unique to your server, check this category out!
