@@ -1,0 +1,62 @@
+{
+	"1": {
+		"name": "General",
+		"description": "Here you can find plugins that provide many functionalities or let you do many basic things. If you want to add something unique to your server, check this category out!"
+	},
+	"2": {
+		"name": "Admin Tools",
+		"description": "Administrative tools are plugins that make life easier for server owners and ops. Latest ban hammers and firewalls inside!"
+	},
+	"3": {
+		"name": "Informational",
+		"description": "This is the age of data, and this is where you get all the data you'd never even dreamed of."
+	},
+	"4": {
+		"name": "Anti-Griefing Tools",
+		"description": "Anti-Griefing Tools help you get rid of the last players you want to see on your server."
+	},
+	"5": {
+		"name": "Chat-Related",
+		"description": "Improve your player community with all sorts of Chat-Related plugins to \"chat out of the box\"!"
+	},
+	"6": {
+		"name": "Teleportation",
+		"description": "Nether portal travelling are old-school transports. Find innovative transportation methods here!"
+	},
+	"7": {
+		"name": "Mechanics",
+		"description": "Craft your unique server by combining different new mechanisms!"
+	},
+	"8": {
+		"name": "Economy",
+		"description": "Money is an symbol of human civilization, and in-game money is your first step to a professional server."
+	},
+	"9": {
+		"name": "Minigame",
+		"description": "Are you starting a minigame-only server? Or do you want to bring occasional entertainment to your survival players? No matter which one you are, these plugins shall meet your needs."
+	},
+	"10": {
+		"name": "Fun",
+		"description": "Got bored? Download some fun!"
+	},
+	"11": {
+		"name": "World Editing and Management",
+		"description": "Don't want to mine the terrain block by block, but TNT is too difficult to control? Try out these free but powerful cranes and drills!"
+	},
+	"12": {
+		"name": "World Generators",
+		"description": "Traditional terrains are boring. Let's innovate new biomes and worlds!"
+	},
+	"13": {
+		"name": "Developer Tools",
+		"description": "Tools for plugin developers and power users."
+	},
+	"14": {
+		"name": "Educational",
+		"description": "Gaming is learning!"
+	},
+	"15": {
+		"name": "Miscellaneous",
+		"description": "Everything else. Plugins that are too creative to fit into a category."
+	}
+}
